@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "nama": "Caffee Latte",
+    "jabatan": "Rich",
+    "email": "full-bodied espresso in steamed milk, lightly topped with foam. A caffe latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.",
+    "foto": "https://radarutara.disway.id/upload/81c0a47b3f9a954a06ddc8fc98950520.jpeg"
+  },
+  {
+    "id": "2",
+    "nama": "Caffee Mocha",
+    "jabatan": "Rich",
+    "email": "full-bodied espresso in steamed milk, lightly topped with foam. A caffe latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.",
+    "foto": "https://akcdn.detik.net.id/community/media/visual/2021/03/17/jumlah-kalori-secangkir-kopi-hitam-kopi-sehat-yang-kaya-manfaat_169.jpeg?w=700&q=90"
+  },
+  {
+    "id": "3",
+    "nama": "Cappuccino",
+    "jabatan": "Rich",
+    "email": "full-bodied espresso in steamed milk, lightly topped with foam. A caffe latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.",
+    "foto": "https://akcdn.detik.net.id/community/media/visual/2021/03/17/jumlah-kalori-secangkir-kopi-hitam-kopi-sehat-yang-kaya-manfaat_169.jpeg?w=700&q=90"
+  },
+  {
+    "id": "4",
+    "nama": "Caramel Macchiato",
+    "jabatan": "Rich",
+    "email": "full-bodied espresso in steamed milk, lightly topped with foam. A caffe latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.",
+    "foto": "https://akcdn.detik.net.id/community/media/visual/2021/03/17/jumlah-kalori-secangkir-kopi-hitam-kopi-sehat-yang-kaya-manfaat_169.jpeg?w=700&q=90"
+  },
+  {
+    "id": "5",
+    "nama": "Coffee Frappuccino",
+    "jabatan": "Rich",
+    "email": "full-bodied espresso in steamed milk, lightly topped with foam. A caffe latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.",
+    "foto": "https://akcdn.detik.net.id/community/media/visual/2021/03/17/jumlah-kalori-secangkir-kopi-hitam-kopi-sehat-yang-kaya-manfaat_169.jpeg?w=700&q=90"
+  }
+]
